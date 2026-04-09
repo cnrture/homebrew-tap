@@ -2,8 +2,7 @@ cask "claudeswitcher" do
   version "1.0.0"
   sha256 "cc0d9e91e4c4e913e9ca6fc0bc1209d46177b05e3c19af41aa964109ea6a36be"
 
-  url "https://github.com/cnrture/ClaudeSwitcher/releases/download/v#{version}/ClaudeSwitcher.zip",
-      verified: "github.com/cnrture/ClaudeSwitcher/"
+  url "https://github.com/cnrture/ClaudeSwitcher/releases/download/v#{version}/ClaudeSwitcher.zip"
   name "ClaudeSwitcher"
   desc "Menu bar app to manage and switch between multiple Claude accounts"
   homepage "https://github.com/cnrture/ClaudeSwitcher"
