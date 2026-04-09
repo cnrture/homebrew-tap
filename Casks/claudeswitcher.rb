@@ -1,6 +1,6 @@
 cask "claudeswitcher" do
   version "1.0.1"
-  sha256 "2310ac6daae12ade720a8d458d67d2fc89e0947b1e894e93bd073a6f8a54ecdd"
+  sha256 "0b7b8fbe43fdf30589902cfd1f6a6af07a9be691c2443866e20e54fe90d80ee4"
 
   url "https://github.com/cnrture/ClaudeSwitcher/releases/download/v#{version}/ClaudeSwitcher.zip"
   name "ClaudeSwitcher"
